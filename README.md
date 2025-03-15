@@ -3,5 +3,5 @@
 
 - This is the repo for the data related to the article: 
 
-- Chipola: A Chinese Podcast Lexical Database for Capturing Spoken Language Nuances and Predicting Behavioral Data
+- Zhao, Ning & Lei, Lei. Chipola: A Chinese Podcast Lexical Database for Capturing Spoken Language Nuances and Predicting Behavioral Data. Behavior Research Methods. 
 
