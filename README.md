@@ -8,7 +8,7 @@
 
 ## Data
 
-- Please find files such as Chipola_char.csv, Chipola_text.csv, and Chipola_word.csv above.
-- Please find Chipola_text_Matrix.csv and Chipola_text_Matrix.json in the "release" on the right side of the page.
+- Please find files such as Chipola_char.csv, Chipola_text.csv, and Chipola_word.csv in the files box above.
+- Please find Chipola_text_Matrix.csv and Chipola_text_Matrix.json in the "Releases" on the right side of the page.
 
 
